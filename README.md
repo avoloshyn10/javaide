@@ -7,11 +7,8 @@
 This project is develop to help the community learn java on android.
 You can build and run Java file with JDK 1.7.
 
-Download in Google Play Store
 
-<a href="https://play.google.com/store/apps/details?id=com.duy.compiler.javanide"
-target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/
+
 
 
 ## Todo
