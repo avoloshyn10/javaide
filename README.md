@@ -1,6 +1,6 @@
 # Java N-IDE Java compiler on Android.
 
-![Screenshot](art/wall_framed.png)
+
 
 
 ## Overview
