@@ -11,8 +11,8 @@ Download in Google Play Store
 
 <a href="https://play.google.com/store/apps/details?id=com.duy.compiler.javanide"
 target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-alt="IMAGE ALT TEXT HERE" width="200"/></a>
+<img src="https://play.google.com/intl/en_us/badges/images/generic/
+
 
 ## Todo
 1. Java compiler JDK 1.7 &#10004;
